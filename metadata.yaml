@@ -1,0 +1,29 @@
+_repo: A-Book-of-the-PlayStudies-and-Illustrations-of-Histrionic-Story-Life-and-Character_15151
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, Dutton
+    birthdate: 1829
+    deathdate: 1883
+    gutenberg_agent_id: '5880'
+    url: http://www.gutenberg.org/2009/agents/5880
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Dutton_Cook
+description: ''
+gutenberg_issued: '2005-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Great Britain -- History'
+- !lcc 'PN'
+title: 'A Book of the Play
+
+  Studies and Illustrations of Histrionic Story, Life, and Character'
+url: http://www.gutenberg.org/ebooks/15151
