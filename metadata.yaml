@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5880
     wikipedia: http://en.wikipedia.org/wiki/Edward_Dutton_Cook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15151#A-Book-of-the-PlayStudies-and-Illustrations-of-Histrionic-Story-Life-and-Character
 gutenberg_issued: '2005-02-22'
 gutenberg_type: Text
 identifiers:
